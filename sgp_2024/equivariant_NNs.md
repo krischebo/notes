@@ -1,6 +1,6 @@
-Equivariant NNs	(6/22,9AM)
+# Equivariant NNs	(6/22,9AM)
 
-PART 1: ROBIN WALTERS
+## PART 1: ROBIN WALTERS
 
 Equivarance: In mathematics, equivariance is a form of symmetry for functions from one space with symmetry to another. A function is said to be an equivariant map when its domain and codomain are acted on by the same symmetry group, and when the function commutes with the action of the groupIn mathematics, equivariance is a form of symmetry for functions from one space with symmetry to another. A function is said to be an equivariant map when its domain and codomain are acted on by the same symmetry group, and when the function commutes with the action of the group.
 
@@ -33,7 +33,7 @@ Applications of equivariant NN
 How do build scaling equivariance?
 - We translate and scale a kernel across all the input. So the beginning function changes over everything. Think of kernel in groups.
 
-PART 2: JUNG PARK
+## PART 2: JUNG PARK
 Unknown group actions
 - 3D rotation is not as simple as 2D rotation since pixels might not evenly move and some pixels might not even be visible.
 - Symmetric Embedding Network (SEN) Key idea: pair SEN with downstream equivariant networks and train end-to-end. 
