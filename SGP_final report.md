@@ -1,5 +1,4 @@
-Symposium on Geometry Processing 2024 Report
-Krishna Chebolu
+# Symposium on Geometry Processing 2024 Final Report
 
 SGP 2024 took place in two-parts: the graduate school from June 22-23, 2024, 
 and the symposium from June 24-26, 2024 in MIT’s CSAIL building in Cambridge,
